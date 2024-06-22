@@ -1,0 +1,22 @@
+{
+  "name": "project3csds221",
+  "version": "1.0.0",
+  "description": "Full Stack Sport Venue App ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "author": "Khoa Luong",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "vue-router": "^4.2.5",
+    "vuetify": "^3.4.3",
+    "nodemon": "^3.0.1"
+  }
+}

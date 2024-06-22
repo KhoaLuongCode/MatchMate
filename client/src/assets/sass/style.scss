@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'nunito';
+  src: url('~@/assets/fonts/Nunito-VariableFont_wght.ttf') format('truetype');
+  font-weight: bold;
+}
+
+
+.p-toast{
+  z-index: 9999 !important;
+}
+
+.global-text-field {
+  font-family: 'nunito', sans-serif;
+}
